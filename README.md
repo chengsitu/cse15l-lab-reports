@@ -3,6 +3,8 @@
   *Hello World!*
   
   **Hope me and person who are looking this, have fun on this class**
+
+  **And remember to be nice to people around you**
         
 ***
   [cilck here to view chenggang's github](https://commonmark.org/help/tutorial/02-emphasis.html)
