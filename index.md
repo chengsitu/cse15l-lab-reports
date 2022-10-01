@@ -9,5 +9,7 @@
   [cilck here to view chenggang's github](https://github.com/chengsitu/cse15l-lab-reports)
   
   [cilck here to view chenggang's first lab work](https://chengsitu.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+  
+  [click here to view chenggang's second lab work](https://chengsitu.github.io/cse15l-lab-reports/lab-report-2-week-1.html)
 
   ![Image](https://tacanowblog.files.wordpress.com/2020/03/fun-emoji.jpg)
