@@ -17,7 +17,7 @@
 ![image](addotherwords.PNG)
 * After I done that, my arraylist will sort **3** different words (**anewstringtoadd**, **apple**, **pineapple**)
 * Next, we can use the search method to find some words that contain the character that you are looking for. There is search method in my code: 
-![image](searchmethod.JPG)
+![image](searchmethod.PNG)
 * From my code, I write get key word that you want me to look for, then I use for loop to get every words that you adds into the list and try to find out every word that contain key word that you put. Then put those qualified word into a new arraylist and return them. <br/>
 **For Example:**
 ![image](Searchwords.PNG)
