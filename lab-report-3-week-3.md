@@ -1,4 +1,4 @@
-## Search Engine
+## Part 1: **Search Engine**
 ---
 * This is my code for the SearchEngine
 <br/>
@@ -27,3 +27,21 @@
 ---
 ## Part 2: **Bugs fix**
 ---
+* For the first bug that I found is in the array Example file, after I run the my own test to the reversed class: it shows:
+![image](test.PNG)
+* From this, I can see that the except input for the first num is 5, but code give me the Zero, so I go back to check where do it get wrong.
+* After 3 mins, I see the bugs: (red circles is the bug that need to fix)
+![image](wrongcode.PNG)
+* newArray is empty, we don't put anything in it. Which **arr** can not copy any of the char from newArray. Then what we need to fix is:
+![image](correctcode.PNG)
+* Make **arr[i]** to **newArray[i]** and return **newArray** instead of return **arr**.
+* After I correct my code, the test is passed.
+![image](good.PNG)
+
+**Second bug**
+* Second bug that I found is in the listExample.java file.
+* It did not return a same order of input, it return the inverse of the input. Which it is caused from here:
+![image](problem.PNG)
+* It always add the String to the **first** index and then every string that put already will move to next one automatically. 
+* If we want to fix it, we just need to delete the (**0,**), then it will automatically append a specific element to the **end** of a list.
+![image](好的.PNG)
