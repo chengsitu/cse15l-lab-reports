@@ -4,7 +4,7 @@
 ---
 ## Part 1: **Search Engine**
 ---
-* This is my code for the SearchEngine
+* This is my code for the SearchEngine <br/>
 ![image](SearchEngine.PNG)
 * For this code, if you want to run this code, you need to type --> javac Server.java (Your Search Engine's file name).java in the Ternimal. <br/>
  Then --> java (Your Search Engine's file name) (some number greater than 4000)
