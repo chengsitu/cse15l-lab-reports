@@ -4,7 +4,8 @@
 * From the Internet, I find **3** intersting find-command **options** to find something in the remote server. They are: <br>
     * **-name** options (two ways)
     * **-iname** options
-    * **-user** options
+    * **-user** options <br>
+<br>
 ---
 * let's talk about the **-name** options First.
     * Basiclly, the **-name** options is **Search for files that are specified by ‘something that want to put it’.**
@@ -14,7 +15,7 @@
     ***.txt** is some files that you want to find out. 
     * Base on that, I try some command code into the online server as example: <br>
     ![image](find-name-options-result1.PNG)<br>
-    The command code that I used to get some files that I want is **(find ./biomed -name (*.txt)** (remove all the braket that I put). <br>
+    The command code that I used to get some files that I want is __find ./biomed -name *.txt__ <br>
     This command code will list out any files that is ending with ***.txt** and in the **biomed** directory
     * Second example: <br>
     ![image](find-name-options-result2.PNG)<br>
@@ -22,6 +23,7 @@
     * Third example: <br>
     ![image](find-name-options-result3.PNG)<br>
     At this time, this command code will list out any files that is ending with ***.docs** and in the **government** directory, but the result come out is nothing is listing out. This means that in the **government** dierctory, there is no files that end with **.docs**. <br>
+<br>    
 ---
 * Other ways that we can use **-name** options to find specific files
     * The code that we need to type in the command is: <br/>
@@ -37,6 +39,7 @@
     * Third Example: <br>
     ![image](find-name-excatly-options3.PNG) <br>
     At this time, this command line code means that, I want to find the another files that name is **predatorys.txt** in the **government** directory, but there is **nothing** after kick enter. This means that there is no such files that is name **predatorys.txt** in the **government** directory. <br>
+<br>    
 ---
 * Second **options** that I want to says is: **-iname** <br>
     * Basiclly, the **-iname** options is **Search for files that are specified by ‘something that want to put it’ irrespective of upper/lower case.**
@@ -49,15 +52,17 @@
     For this command-line code, It is trying to find some files that is name is start with **cohenetal_** in the **government** directory.
     * Last example: <br>
     ![image](find-iname-options3.PNG)<br>
-    For this command-line code, It is trying to find some files that is name is start with **mitchell_** in the **government** directory.
+    For this command-line code, It is trying to find some files that is name is start with **mitchell_** in the **government** directory. <br>
+<br>
 ---
 * Last **option** is **-user**: <br>
     * Basiclly, the **-user** options is **Search for files owned by user name or ID "name"**.
     * The code we need to put in the command is:<br>
     ![image](find-belong-user-options-result1.PNG)<br>
     From this result, we can see that it is trying to find any files that is own by **cs15lfa22il**. Which any files in this account is all belong to me because I do it on remotely with my account. 
-    * Second Example:
+    * Second Example: <br>
     ![image](find-belong-user-options-result2.PNG)<br>
-    From this result, we can see that it is trying to find any files that is own by **cs15lfa22**. Of course, there is nothing that is belong to this account **cs15lfa22** because I do it on remotely with my account. 
+    From this result, we can see that it is trying to find any files that is own by **cs15lfa22**. Of course, there is nothing that is belong to this account **cs15lfa22** because I do it on remotely with my account. <br>
+<br>
 ---
 **That is, Thank you for spend time to read through this report!!**
