@@ -6,7 +6,7 @@
     * **-iname** options
     * **-user** options <br>
 <br>
----
+
 * let's talk about the **-name** options First.
     * Basiclly, the **-name** options is **Search for files that are specified by ‘something that want to put it’.**
     * The code that we need to type in the command is:<br/>
@@ -24,7 +24,7 @@
     ![image](find-name-options-result3.PNG)<br>
     At this time, this command code will list out any files that is ending with ***.docs** and in the **government** directory, but the result come out is nothing is listing out. This means that in the **government** dierctory, there is no files that end with **.docs**. <br>
 <br>    
----
+
 * Other ways that we can use **-name** options to find specific files
     * The code that we need to type in the command is: <br/>
     ![image](find-name-excatly-options.PNG) <br/>
@@ -40,7 +40,7 @@
     ![image](find-name-excatly-options3.PNG) <br>
     At this time, this command line code means that, I want to find the another files that name is **predatorys.txt** in the **government** directory, but there is **nothing** after kick enter. This means that there is no such files that is name **predatorys.txt** in the **government** directory. <br>
 <br>    
----
+
 * Second **options** that I want to says is: **-iname** <br>
     * Basiclly, the **-iname** options is **Search for files that are specified by ‘something that want to put it’ irrespective of upper/lower case.**
     * The code that we need to type in the command is:<br/> 
@@ -54,7 +54,7 @@
     ![image](find-iname-options3.PNG)<br>
     For this command-line code, It is trying to find some files that is name is start with **mitchell_** in the **government** directory. <br>
 <br>
----
+
 * Last **option** is **-user**: <br>
     * Basiclly, the **-user** options is **Search for files owned by user name or ID "name"**.
     * The code we need to put in the command is:<br>
@@ -64,5 +64,5 @@
     ![image](find-belong-user-options-result2.PNG)<br>
     From this result, we can see that it is trying to find any files that is own by **cs15lfa22**. Of course, there is nothing that is belong to this account **cs15lfa22** because I do it on remotely with my account. <br>
 <br>
----
+
 **That is, Thank you for spend time to read through this report!!**
