@@ -3,7 +3,7 @@
 * I choose the **Find** command to be my Research command
 * From the Internet, I find **3** intersting find-command **options** to find something in the remote server. They are: <br>
     * **-name** options (two ways)<br>
-        * ```find ./biomed(some directory) -name *txt(some files that you want to find)``` <br>
+        * ```find ./biomed(some directory) -name *.txt(some files that you want to find)``` <br>
         ```find ./biomed(some directory) -name sample.txt(one file that you want to find)```
     * **-iname** options <br>
         * ```find ./government(directory) -iname sameple.txt(file that you want to find)```
