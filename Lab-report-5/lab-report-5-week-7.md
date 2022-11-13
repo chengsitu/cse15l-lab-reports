@@ -6,13 +6,13 @@
  1. `/@ <Enter> nn` <br> find the where is __@__ located at <br>
  ![image](Search_For.png) <br>
  2. `6yy` <br> to copies the 6 lines that is under where do we find the third __@__ <br>
- ![image](6_line_copy.png) <br>
+ ![image](6_line_copy.PNG) <br>
  3. `kp` <br> paste the what you copied <br>
- ![image](Pased_stuff.png) <br>
+ ![image](Pased_stuff.PNG) <br>
  4. `/C <Enter> n` <br> to find where is the Second __C__ located at <br>
  ![image](Search_For_C.png) <br>
  5. `ea2 <Esc>` <br> add the __2__ after we loacted where is the __parentheses__ that next to the __C__ we that located already <br>
- ![image](e_a_2_command.png) <br>
+ ![image](e_a_2_command.PNG) <br>
  6. `/ati <Enter> n` <br> search for the where is the second __ati__ locate <br>
  ![image](Search_for_ati.png) <br>
  7. `5x` <br> to delete the __5__ character after we located the __ati__ <br>
@@ -20,9 +20,9 @@
  8. `/3 <enter> n` <br> search for where is the second __3__ locate<br>
  ![image](Search_for_3.png) <br>
  9. `i <rightrow> <delete> 161` <br> replace the __3__ to the __161__ <br>
- ![image](i_rightarrow_delete_161.png) <br>
+ ![image](i_rightarrow_delete_161.PNG) <br>
  10. `:w <Enter>` <br> to save the any __change__ that you makes
- ![image](w_enter.png) 
+ ![image](w_enter.PNG) 
  ---
 ## Part 2 <br>
 __Method 1: Edit in the Local__ <br>
