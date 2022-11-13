@@ -22,8 +22,11 @@
  9. `i <rightrow> <delete> 161` <br> replace the __3__ to the __161__ <br>
  ![image](i_rightarrow_delete_161.PNG) <br>
  10. `:w <Enter>` <br> to save the any __change__ that you makes
- ![image](w_enter.PNG) 
- ---
+ ![image](w_enter.PNG)  <br>
+
+
+---
+
 ## Part 2 <br>
 __Method 1: Edit in the Local__ <br>
 * This method took me about 3 minutes. The first method takes more time than do the second method. It think it because that in the first method you have to use the `scp command` to replace the old file to the new file that you finish edit already. When I using the `scp command` I have to type a lot to make the command work. Also that the speed that I edit the local file is slower because I rely on using the mouse, instead of using the shortcut of keyboard in VIM command. <br>
