@@ -18,4 +18,6 @@
 
   [click here to view chenggang's **fifth** lab work](https://chengsitu.github.io/cse15l-lab-reports/Lab-report-5/lab-report-5-week-7.html)
 
+  [click here to view chenggang's **sixth** lab work](https://chengsitu.github.io/cse15l-lab-reports/lab-report-6-week-9.html)
+
   ![Image](https://tacanowblog.files.wordpress.com/2020/03/fun-emoji.jpg)
