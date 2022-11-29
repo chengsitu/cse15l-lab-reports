@@ -54,16 +54,16 @@ fi
 <br>
 
 ### Example 1: <br>
-* Repository link: https://github.com/ucsd-cse15l-f22/list-methods-lab3 <br>
-![Example 1](complied-good.PNG) <br>
+* Repository link: https://github.com/ucsd-cse15l-f22/list-methods-corrected <br>
+![Example 1](Complile_good.PNG) <br>
 
 ### Example 2: <br>
 * Repository link: https://github.com/ucsd-cse15l-f22/list-methods-compile-error <br>
-![Example 2](complied-error.PNG) <br>
+![Example 2](Complile_bad2.PNG) <br>
 
 ### Example 3: <br>
-* Repository link: https://github.com/ucsd-cse15l-f22/list-methods-filename <br>
-![Example 3](complied-error2.PNG) <br>
+* Repository link: https://github.com/ucsd-cse15l-f22/list-methods-lab3 <br>
+![Example 3](Complile_bad.PNG) <br>
 
 ---
 
